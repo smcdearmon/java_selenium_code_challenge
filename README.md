@@ -4,7 +4,6 @@
 
 * Java 8 JDK
 * Gradle
-* Git Client
 
 <h2>Coding Challenge</h2>
 
