@@ -8,7 +8,7 @@
 
 <h2>Coding Challenge</h2>
 
-For this coding challenge we will be working with Selenium Webdriver and JUnit frameworks through Java. In the first test, you will need to search for "Yanni's Greatest Hits".  The second test, search for "Yanni's Greatest Hits" but only under the "Digital Music" department. For both tests please verify the the total results returned.
+For this coding challenge we will be working with Selenium Webdriver and JUnit frameworks through Java. In the first test, you will need to search for "Yanni's Greatest Hits" on "amazon.com".  The second test, search for "Yanni's Greatest Hits" but only under the "Digital Music" department. For both tests please verify the the total results returned.
 
 * Tests should use the chromedriver located here: /src/test/resources
   * Other chromedriver versions are available here: https://chromedriver.chromium.org/
